@@ -1,0 +1,5 @@
+ICT2215 Assessment 2 - Multimedia Resource
+Embedded video: Chef Wang (美食作家王刚), Yu Xiang Shredded Pork (Chongqing style).
+YouTube URL: https://www.youtube.com/watch?v=t-gEVqs_Fg0
+Embed URL: https://www.youtube-nocookie.com/embed/t-gEVqs_Fg0?rel=0&playsinline=1
+Note: The video is streamed from YouTube and is not included as a downloaded video file. Internet access is required.
